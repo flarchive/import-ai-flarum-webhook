@@ -2,13 +2,15 @@
 
 > **Read-only archive of released versions of import-ai/flarum-webhook.** Not for installation: use [Packagist](https://packagist.org/packages/import-ai/flarum-webhook) or the [upstream repository](https://github.com/import-ai/flarum-webhook).
 
-**0** versions archived · Latest: [`v0.1.2`](https://github.com/flarchive/import-ai-flarum-webhook/tree/archive/v0.1.2) · License: `Apache-2.0` · Flarum: `^1.2.0`
+**3** versions archived · Latest: [`v0.1.2`](https://github.com/flarchive/import-ai-flarum-webhook/tree/archive/v0.1.2) · License: `Apache-2.0` · Flarum: `^1.2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.1` | 2026-01-30 | `^1.2.0` | [Browse](https://github.com/flarchive/import-ai-flarum-webhook/tree/archive/v0.1.1) |
+| `v0.1.0` | 2026-01-30 | `^1.2.0` | [Browse](https://github.com/flarchive/import-ai-flarum-webhook/tree/archive/v0.1.0) |
+| `v0.1.2` | 2026-01-31 | `^1.2.0` | [Browse](https://github.com/flarchive/import-ai-flarum-webhook/tree/archive/v0.1.2) |
 
 Catalog entry: [packages/import-ai-flarum-webhook.json](https://github.com/flarchive/archive-index/blob/main/packages/import-ai-flarum-webhook.json)
 
